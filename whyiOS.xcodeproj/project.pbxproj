@@ -54,6 +54,13 @@
 		A6A1E5132177E91000696DD4 /* whyiOS */ = {
 			isa = PBXGroup;
 			children = (
+				A6A1E52C2177E92500696DD4 /* New Group6 */,
+				A6A1E52B2177E92400696DD4 /* New Group5 */,
+				A6A1E52A2177E92300696DD4 /* New Group4 */,
+				A6A1E5292177E92200696DD4 /* Models */,
+				A6A1E5282177E92200696DD4 /* ModelControllers */,
+				A6A1E5272177E91E00696DD4 /* Controllers */,
+				A6A1E5262177E91D00696DD4 /* Resources */,
 				A6A1E5142177E91000696DD4 /* AppDelegate.swift */,
 				A6A1E5162177E91000696DD4 /* ViewController.swift */,
 				A6A1E5182177E91000696DD4 /* Main.storyboard */,
@@ -62,6 +69,55 @@
 				A6A1E5202177E91200696DD4 /* Info.plist */,
 			);
 			path = whyiOS;
+			sourceTree = "<group>";
+		};
+		A6A1E5262177E91D00696DD4 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		A6A1E5272177E91E00696DD4 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		A6A1E5282177E92200696DD4 /* ModelControllers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ModelControllers;
+			sourceTree = "<group>";
+		};
+		A6A1E5292177E92200696DD4 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		A6A1E52A2177E92300696DD4 /* New Group4 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group4";
+			sourceTree = "<group>";
+		};
+		A6A1E52B2177E92400696DD4 /* New Group5 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group5";
+			sourceTree = "<group>";
+		};
+		A6A1E52C2177E92500696DD4 /* New Group6 */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group6";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
