@@ -39,7 +39,6 @@ class PostController {
                 })
                 
                 completion(posts)
-                print(posts)
             } catch {
                 print("Error: \(error) || \(error.localizedDescription)")
                 completion(nil)

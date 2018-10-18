@@ -69,6 +69,7 @@ extension ReasonTableViewController {
     
     func refresh() {
         
+        UIApplication.shared.isNetworkActivityIndicatorVisible = true
         PostController.fetchPosts { (posts) in
             self.posts = posts ?? []
             DispatchQueue.main.async {
